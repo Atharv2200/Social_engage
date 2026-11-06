@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Project Secrets and Datasets
+.env
+config.py
+*.csv
+!structured_youtube_data_sample.csv
+*.csv
+!structured_youtube_data_sample.csv 
+!sentiment_tagged_data_sample.csv
