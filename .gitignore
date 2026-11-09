@@ -226,3 +226,4 @@ config.py
 *.csv
 !structured_youtube_data_sample.csv 
 !sentiment_tagged_data_sample.csv
+!virality_metrics.csv
