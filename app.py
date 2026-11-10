@@ -64,6 +64,6 @@ with tab3:
     st.subheader("Statistical Validation & Prescriptive Strategy")
     c3, c4 = st.columns(2)
     with c3:
-        st.info("**Module 4: A/B Test Results**\n\nTesting Short vs Long Formats\n* **P-Value:** 0.0312\n* **Conclusion:** Short formats (<60s) are statistically proven to drive higher velocity for relatable topics.")
+        st.info("**A/B Test Results**\n\nTesting Short vs Long Formats\n* **P-Value:** 0.0312\n* **Conclusion:** Short formats (<60s) are statistically proven to drive higher velocity for relatable topics.")
     with c4:
-        st.success("**Module 7: Trend Forecast**\n\nRising Hashtag Trigger: `#impostersyndrome`\n* **WoW Growth:** +191%\n* **Recommendation:** Integrate into the first 3 seconds of the next content hook.")
+        st.success("**Market Trend Forecast**\n\nRising Hashtag Trigger: `#impostersyndrome`\n* **WoW Growth:** +191%\n* **Recommendation:** Integrate into the first 3 seconds of the next content hook.")

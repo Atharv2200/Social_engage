@@ -2,7 +2,7 @@ import pandas as pd
 import pymysql
 import uuid
 
-connection = pymysql.connect(host='localhost', user='root', password='root@123')
+connection = pymysql.connect(host='localhost', user='root', password='root123')
 cursor = connection.cursor()
 
 cursor.execute("CREATE DATABASE IF NOT EXISTS social_engage_db")
